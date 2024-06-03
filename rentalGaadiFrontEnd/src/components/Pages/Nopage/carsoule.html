@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            padding: 0;margin: 0;box-sizing: border-box;
+        }
+        body{
+            height: 100vh;
+        }
+        main{
+            box-shadow: 0 0 90px 10px rgba(0,0,0,0.8);
+            height: 500px;
+            width: 1000px;
+            margin: 100px auto 0;
+            display: flex;
+            position: relative;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+
+        .img{
+            width: 1000px;
+            height: 450px;            
+        }
+        .slide{
+            position: absolute;
+            transition-duration: 0.5s;
+        }
+        button{
+            color: black;
+        }
+    </style>
+    <script src="carsouel.js" defer></script>
+</head>
+<body>
+    <main>
+        <!-- 1 slide -->
+        <div class="slide">
+            <h1 class="head">Slide First</h1>
+            <img class="img" src="../../../../public/images/homebg.jpeg" />
+        </div>
+      
+        <!-- 2 slide -->
+        <div class="slide">
+            <h1 class="head">Slide Second</h1>
+            <img class="img" src="../../../../public/images/homebg.jpeg" />
+        </div>
+      
+        <!-- 3 slide -->
+        <div class="slide">
+            <h1 class="head">Slide Third</h1>
+            <img class="img" src="../../../../public/images/homebg.jpeg" />
+        </div>
+       
+        <!-- 4 slide -->
+        <div class="slide">
+            <h1 class="head">Slide Fourth</h1>
+            <img class="img" src="../../../../public/images/homebg.jpeg" />
+        </div>
+       
+        <!-- 5 slide -->
+        <div class="slide">
+            <h1 class="head">Slide Fifth</h1>
+            <img class="img" src="../../../../public/images/homebg.jpeg" />
+        </div>
+      
+        <!-- 6 slide -->
+        <div class="slide">
+            <h1 class="head">Slide Sixth</h1>
+            <img class="img" src="../../../../public/images/homebg.jpeg" />
+        </div>
+    </main>
+    <div style="display: flex;justify-content: center;">
+        <button id="prevBtn">prev</button>
+        <button id="nextBtn">next</button>  
+
+    </div>
+</body>
+</html>

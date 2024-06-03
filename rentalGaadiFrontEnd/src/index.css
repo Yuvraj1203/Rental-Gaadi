@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+#hero{
+  background: url('images/homebg.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 10%;
+}
+
+#main ul li::before{
+  content: "✓";
+}
+input[type="time"]::-webkit-calendar-picker-indicator, input[type="date"]::-webkit-calendar-picker-indicator { 
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 90%;
+  height: 100%;
+  opacity:  0;
+  stroke: transparent;
+  fill: transparent;
+} 
+.slick-prev, .slick-next{
+  border-radius: 50%;
+}
+.slick-prev::before, .slick-next::before{
+  background-color: #5a5a5a;
+  border-radius: 50%;
+}

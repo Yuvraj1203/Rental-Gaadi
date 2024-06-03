@@ -1,0 +1,205 @@
+
+.top-menu{
+	background:#F06013;
+}
+.top-menu a:hover {
+	color:#3d468a;
+}
+.top-menu a i:hover {
+	color:#fff;
+}
+.address{
+	border-right: 1px solid #000;
+
+}
+
+#header .menu ul .nav-item .nav-link:hover, #header .menu ul .nav-item .nav-link:focus, #header .menu ul .nav-item .nav-link.active {
+    color: #3d468a;
+}
+ #header .menu ul li .nav-link{
+   color: #000000;
+   }
+  #header .menu ul li .nav-link:hover{
+   color: #3d468a;
+   }
+   #header .currencies-login .cart-login-search ul li a svg{
+   fill : #000000;
+   }
+   #header .currencies-login .cart-login-search ul li a i{
+   color : #000000;
+   }
+   #header .currencies-login .cart-login-search ul li a svg{
+   fill : #000000;
+   }
+   #header .currencies-login .cart-login-search ul li .cart .number-cart{
+   color : #000000;
+   }
+   .header-v1-h1.menu_scroll_v1{
+   background-color : #ffffff;
+   }
+   .animated{
+   	background: #ffffff96;
+    height: 70px;
+    opacity: 0.1;
+    padding: 0px 41px 0px 40px;
+   }
+
+      .section-slideshow-v1 .slick-active .info-sideh1 .box-content-center .button-shop-1584353475696-2:hover{
+      background : #5ba616 !important;
+      border-color : #5ba616 !important;
+      color : #ffffff !important;
+      }
+      .section-slideshow-v1 .slick-active .info-sideh1 .box-content .button-shop-1584353475696-2:hover{
+      background : #5ba616 !important;
+      border-color : #5ba616 !important;
+      color : #ffffff !important;
+      }
+      .section-slideshow-v1 .slick-active .info-sideh1 .box-content-right .button-shop-1584353475696-2:hover{
+      background : #5ba616 !important;
+      border-color : #5ba616 !important;
+      color : #ffffff !important;
+      }
+      .section-slideshow-v1 .slick-active .info-sideh1 .box-info-1584353475696-2 .box-title-1584353475696-2{   
+      -webkit-animation-name: fadeInUp;
+      animation-name:  fadeInUp; ;
+      }
+      .section-slideshow-v1 .slick-active .info-sideh1 .box-info-1584353475696-2 .box-title1-1584353475696-2{    
+      -webkit-animation-name: fadeInUp;
+      animation-name:  fadeInUp; ;
+      }
+      .section-slideshow-v1 .slick-active .info-sideh1 .box-info-1584353475696-2 .box-title2-1584353475696-2{    
+      -webkit-animation-name: fadeInUp;
+      animation-name:  fadeInUp; ;
+      }
+      .section-slideshow-v1 .slick-active .info-sideh1 .box-info-1584353475696-2 .button-shop-1584353475696-2{   
+      -webkit-animation-name: fadeInUp;
+      animation-name:  fadeInUp; ;
+      }
+      .section-slideshow-v1 .slick-active .info-sideh1 .box-content-center .button-shop-1584950864766:hover{
+      background : #000000 !important;
+      border-color : #000000 !important;
+      color : #ffffff !important;
+      }
+      .section-slideshow-v1 .slick-active .info-sideh1 .box-content .button-shop-1584950864766:hover{
+      background : #000000 !important;
+      border-color : #000000 !important;
+      color : #ffffff !important;
+      }
+      .section-slideshow-v1 .slick-active .info-sideh1 .box-content-right .button-shop-1584950864766:hover{
+      background : #000000 !important;
+      border-color : #000000 !important;
+      color : #ffffff !important;
+      }
+      .section-slideshow-v1 .slick-active .info-sideh1 .box-info-1584950864766 .box-title-1584950864766{   
+      -webkit-animation-name: fadeInUp;
+      animation-name:  fadeInUp; ;
+      }
+      .section-slideshow-v1 .slick-active .info-sideh1 .box-info-1584950864766 .box-title1-1584950864766{    
+      -webkit-animation-name: fadeInUp;
+      animation-name:  fadeInUp; ;
+      }
+      .section-slideshow-v1 .slick-active .info-sideh1 .box-info-1584950864766 .box-title2-1584950864766{    
+      -webkit-animation-name: fadeInUp;
+      animation-name:  fadeInUp; ;
+      }
+      .section-slideshow-v1 .slick-active .info-sideh1 .box-info-1584950864766 .button-shop-1584950864766{   
+      -webkit-animation-name: fadeInUp;
+      animation-name:  fadeInUp; ;
+      }
+       .index-row{
+         background:#3d468a;
+         padding:5px;
+         border-radius: 0px 0px 20px 20px;
+         }
+         }
+         .index-row-index-page:hover{
+         color:#fff;
+         }
+         .same-page-name{
+         color:#f06013;
+         }
+         .our-service{
+         border:1px solid;
+         }
+      .about-area{
+      	box-shadow:2px 2px 2px 2px #3d468a;
+      }
+      .about-banner{
+         height:500px;
+         width:100%;
+      }
+      .start_business{
+        color:#4453AA;
+      }
+     /* .about-img-index{
+        height:300px;
+        margin-left:20%;
+}*/
+.about-img{
+   width: 100%;
+ }
+.about-text h3{
+	font-family: cursive;
+	font-size:30px;
+}
+/*service page*/
+.breadcrumb_collection .title-page h2{
+            color: #ffffff !important;
+            }
+            .breadcrumb_collection .bread-crumb a{
+            color: #ffffff !important;
+            }
+            .breadcrumb_collection .bread-crumb a i{
+            color: #ffffff !important;
+            }
+            .breadcrumb_collection .bread-crumb strong{
+            color: #ffffff !important;
+            }
+            .lazyloaded { 
+            width: 100px;
+            height: 200px;
+            }
+
+  .index-row{
+  	background:#3d468a;
+  	padding:5px;
+  }
+
+  /*gallery page*/
+   .breadcrumb_collection .title-page h2{
+            color: #ffffff !important;
+            }
+            .breadcrumb_collection .bread-crumb a{
+            color: #ffffff !important;
+            }
+            .breadcrumb_collection .bread-crumb a i{
+            color: #ffffff !important;
+            }
+            .breadcrumb_collection .bread-crumb strong{
+            color: #ffffff !important;
+            }
+/*contact page*/
+
+
+/*start_business section*/
+ .start_business{
+        color:#4453AA;
+      }
+ .start_business_box{
+    background: #fff;
+    box-shadow: 2px 2px 2px 2px;
+    height: 180px;
+    padding-top: 20px;
+}
+.start_business_box2{
+    background: #4453AA;
+    box-shadow: 2px 2px 2px 2px;
+    height: 180px;
+    padding-top: 20px;
+}
+/*service*/
+.service{
+   background:#4453AA;
+
+  
+}
